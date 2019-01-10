@@ -1,0 +1,7 @@
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\bin\Debug\БазовыйУрок.exe.config
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\bin\Debug\БазовыйУрок.exe
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\bin\Debug\БазовыйУрок.pdb
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\obj\Debug\БазовыйУрок.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\obj\Debug\БазовыйУрок.csproj.CoreCompileInputs.cache
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\obj\Debug\БазовыйУрок.exe
+C:\Users\МырзабекДи\source\repos\БазовыйУрок\БазовыйУрок\obj\Debug\БазовыйУрок.pdb
